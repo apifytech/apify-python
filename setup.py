@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="apify",
-    version="0.0.1",
+    version="0.0.2",
     author="Apify Technologies s.r.o.",
     author_email="support@apify.com",
     description="Work in progress: Apify SDK for Python",
