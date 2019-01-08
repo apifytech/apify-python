@@ -11,7 +11,7 @@ setuptools.setup(
     description="Work in progress: Apify SDK for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://sdk.apify.com",
+    url="https://github.com/apifytech/apify-python",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
